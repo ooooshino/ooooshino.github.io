@@ -1,0 +1,19 @@
+<script setup>
+
+</script>
+
+<template>
+  <section>
+    <h2>证书与获奖情况</h2>
+    <p>CET-4 / web 前端开发职业技能等级中级</p>
+    <ul>
+      <li>广东省蓝桥杯 c 组｜三等奖｜2019.03</li>
+      <li>广东省职业院校技能大赛 web 应用软件开发｜三等奖｜2020.10</li>
+      <li>校级第四届学生软件作品大赛｜二等奖｜2020.07</li>
+      <li>校级第三届移动应用创新创意大赛｜二等奖｜2019.12</li>
+    </ul>
+  </section>
+</template>
+
+<style lang="postcss" scoped>
+</style>
