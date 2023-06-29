@@ -16,7 +16,7 @@
       </ul>
     </div>
     <div>
-      <img src="../assets/avatar.png" alt="avatar" />
+      <img src="avatar.png" alt="avatar" />
     </div>
   </section>
 </template>
