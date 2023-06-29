@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <section>
     <h2>自我总结</h2>
@@ -16,6 +12,3 @@
     </ul>
   </section>
 </template>
-
-<style lang="postcss" scoped>
-</style>

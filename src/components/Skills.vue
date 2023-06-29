@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <section>
     <h2>专业技能</h2>
@@ -17,6 +13,3 @@
     </ul>
   </section>
 </template>
-
-<style lang="postcss" scoped>
-</style>

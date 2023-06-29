@@ -15,6 +15,3 @@ import Summary from './components/Summary.vue'
     <Summary />
   </div>
 </template>
-
-<style scoped>
-</style>

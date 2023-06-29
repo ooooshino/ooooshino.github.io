@@ -1,5 +1,5 @@
 <script setup>
-
+import avatar from '/avatar.png'
 </script>
 
 <template>
@@ -16,7 +16,7 @@
       </ul>
     </div>
     <div>
-      <img src="avatar.png" alt="avatar" />
+      <img :src="avatar" alt="avatar" />
     </div>
   </section>
 </template>

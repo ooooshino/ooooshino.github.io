@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <section>
     <h2>证书与获奖情况</h2>
@@ -14,6 +10,3 @@
     </ul>
   </section>
 </template>
-
-<style lang="postcss" scoped>
-</style>
