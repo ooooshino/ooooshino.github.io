@@ -1,7 +1,9 @@
 <template>
   <section>
     <h2>项目经历</h2>
-    <p><strong>Nuxt3 平台与 Content v2 库的个人博客｜开发与维护｜2022.12 - 至今</strong></p>
+    <div class="title">
+      <p><strong>Nuxt3 平台与 Content v2 库的个人博客｜开发与维护｜2022.12 - 至今</strong></p>
+    </div>
     <ul>
       <li>自主开发博客系统、负责整个系统的开发。</li>
       <li>项目基于前端 SSR 框架 Nuxt：Nuxt3+PostCSS+Nuxt Content+Tailwind CSS+Nuxt Color Mode。</li>

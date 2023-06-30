@@ -1,2 +1,4 @@
 
-[点我](https://resume.oshino.cc/)预览
+
+可以[点我](https://resume.oshino.cc/)预览
+

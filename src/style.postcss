@@ -1,14 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   max-width: 900px;
   margin: 0 auto;
-  padding: 0 10%;
   font-size: 14px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
-
-
-  /* 打印成pdf时，吧这行去掉 */
+  /* 打印成pdf时去掉 */
   margin: 4em auto;
+  @apply px-4 md:px-20 lg:px-32
 }
 
 *:not(table) {
@@ -46,6 +48,8 @@ h2,
 h3,
 h5 {
   font-weight: bold;
+  /* 打印时去掉 */
+  @apply mt-6
 }
 
 h1 {
@@ -211,16 +215,3 @@ a:hover {
 }
 
 
-.info {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.info img {
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  margin-right: 20px;
-  margin-top: 30px;
-}
