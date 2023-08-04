@@ -19,7 +19,7 @@ import avatar from '/avatar.png'
       </div>
       <h3 class="text-center sm:text-left ">ooooshino</h3>
       <ul>
-        <li>1999 / 男 / 广东xx</li>
+        <li>1999 / 男 / 广东东软学院</li>
         <li>本科 / 广东东软学院计算机系 / 23届应届生</li>
         <li>技术博客：https://oshino.cc</li>
         <li>期望职位：web前端开发工程师</li>
