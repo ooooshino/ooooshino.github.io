@@ -42,7 +42,12 @@
         项目基于主流的前端框架: Vue3 + Vite + Vue-Router + Pinia + Axios + SCSS + Vant 3 +
         ECharts 5
       </li>
-      <li>待更新</li>
+      <li>
+        项目开发过程中，1）使用 lib-flexible 搭配 postcss-pxtorem
+        实现移动端适配，解决移动端适配问题； 2）使用JSBridge实现与原生交互，提高用户体验；
+        3） 使用 ECharts 5 实现数据的可视化，提高用户体验； 4）
+        使用confetti库实现活动页面的烟花效果，提高网站的视觉效果； 5）待更新
+      </li>
     </ul>
   </section>
 </template>
