@@ -10,7 +10,15 @@ body {
   color: #333;
   /* 打印成pdf时去掉 */
   margin: 4em auto;
-  @apply px-4 md:px-20 lg:px-32
+  @apply px-4 sm:px-6 md:px-20 lg:px-32
+}
+
+#app {
+  width: 100%;
+}
+
+section + section {
+  margin-top: 0.25rem;
 }
 
 *:not(table) {
@@ -187,6 +195,8 @@ ol ul {
 ul li,
 ol li {
   position: relative;
+  margin-bottom: 0.2rem;
+  overflow-wrap: anywhere;
 }
 
 ul p,
@@ -214,4 +224,42 @@ a:hover {
   color: #007cff;
 }
 
+@media (max-width: 640px) {
+  body {
+    max-width: 100%;
+    margin: 1.2rem auto;
+    font-size: 13px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 
+  h1 {
+    font-size: 1.3rem;
+    line-height: 1.4;
+    margin: 1.2rem 0 0.7rem;
+  }
+
+  h2 {
+    font-size: 1.08rem;
+    line-height: 1.45;
+    padding-bottom: 0.35rem;
+  }
+
+  h3,
+  h4 {
+    font-size: 1.15rem;
+    line-height: 1.4;
+    margin: 0.8rem 0 0.45rem;
+  }
+
+  p {
+    margin: 8px 0;
+  }
+
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
