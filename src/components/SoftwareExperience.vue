@@ -2,7 +2,7 @@
   <section>
     <h2>项目经历</h2>
 
-    <p><strong>WebChatFlavor（客户端级 WebApp 多渠道交付）｜核心前端开发｜2023 - 至今</strong></p>
+    <p><strong>核心社交 WebApp 项目（客户端级多渠道交付）｜核心前端开发｜2023 - 至今</strong></p>
     <ul>
       <li>负责 <strong>WebApp / WeApp 核心业务开发与维护</strong>，基于统一前端代码体系支撑多运行形态持续交付。</li>
       <li>
@@ -22,11 +22,11 @@
       <li><strong>技术栈：</strong>Vue 3 / Vue Router / Pinia / Axios / SCSS / Webpack / PWA / JSBridge / Protobufjs / vue-i18n / Agora。</li>
     </ul>
 
-    <p><strong>kissu-web → kissu-web-monorepo（活动与业务 H5 工程平台升级）｜前端工程化建设｜2023 - 至今</strong></p>
+    <p><strong>活动与业务 H5 工程平台（平台升级）｜前端工程化建设｜2023 - 至今</strong></p>
     <ul>
-      <li>接手存量 kissu-web 独立项目群（项目相互独立、各自维护依赖与构建），推动<strong>工程平台化升级</strong>。</li>
+      <li>接手存量活动独立项目群（项目相互独立、各自维护依赖与构建），推动<strong>工程平台化升级</strong>。</li>
       <li>
-        在保留业务连续性的前提下，将多业务 H5 项目逐步整合为 kissu-web-monorepo，基于 <strong>pnpm workspace + Turbo</strong> 建立统一构建链路与依赖管理机制。
+        在保留业务连续性的前提下，将多业务 H5 项目逐步整合为统一 monorepo，基于 <strong>pnpm workspace + Turbo</strong> 建立统一构建链路与依赖管理机制。
       </li>
       <li>
         原项目群覆盖活动、邀请、支付、榜单、规则等高频场景，涉及 <strong>238 个独立 H5 子项目配置</strong>（仓库内 package 配置统计）。
@@ -44,7 +44,7 @@
       <li><strong>技术栈：</strong>Vue 3 / React / Vite / Turbo / pnpm workspace / Plop / Sass / postcss-pxtorem / ESLint / Prettier / Jenkins / Vant。</li>
     </ul>
 
-    <p><strong>jasmin_web_operation（运营管理后台）｜后台前端开发｜2023 - 至今</strong></p>
+    <p><strong>运营管理后台（脱敏命名）｜后台前端开发｜2023 - 至今</strong></p>
     <ul>
       <li>参与运营管理后台核心模块开发，覆盖统计报表、配置管理、用户与主播管理等运营链路。</li>
       <li>维护 <strong>8 条并行分支</strong>，对应 8 个运营平台版本，支撑多平台差异化配置与同步迭代发布。</li>

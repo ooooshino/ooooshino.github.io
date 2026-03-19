@@ -7,8 +7,8 @@
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">前端开发工程师</li>
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">工作年限3年+</li>
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">博客：https://oshino.cc</li>
-        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">131-28398-8744（微信同号）</li>
-        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">tangyusen9@gmail.com</li>
+        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">手机号：[已隐藏]</li>
+        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">邮箱：contact@oshino.cc</li>
       </ul>
     </div>
   </section>
