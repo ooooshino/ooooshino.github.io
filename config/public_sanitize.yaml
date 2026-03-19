@@ -1,0 +1,38 @@
+remove_paths:
+  - ".codex"
+  - ".cursor"
+  - "docs/private"
+  - ".github/workflows/publish-public.yml"
+
+replacements:
+  - name: mask_name
+    pattern: "XX"
+    replacement: "XX"
+  - name: mask_email
+    pattern: "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}"
+    replacement: "XX"
+  - name: mask_cn_mobile
+    pattern: "(?<!\\d)(?:\\+?86[-\\s]?)?1[3-9]\\d[-\\s]?\\d{4}[-\\s]?\\d{4}(?!\\d)"
+    replacement: "XX"
+    pattern: "\\b(XX|XX|XX)\\b"
+    replacement: "XX"
+
+line_drop_patterns:
+
+text_file_extensions:
+  - ".vue"
+  - ".js"
+  - ".ts"
+  - ".json"
+  - ".md"
+  - ".html"
+  - ".css"
+  - ".yml"
+  - ".yaml"
+
+sync_exclude:
+  - ".git"
+  - "node_modules"
+  - "dist"
+  - ".tmp"
+  - ".venv"
