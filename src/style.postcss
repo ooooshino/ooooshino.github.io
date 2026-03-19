@@ -263,3 +263,16 @@ a:hover {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+@media print {
+  .user-info-grid {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+
+  .user-info-grid > li {
+    width: 33.3333% !important;
+    box-sizing: border-box !important;
+    padding-right: 0.5rem !important;
+  }
+}
