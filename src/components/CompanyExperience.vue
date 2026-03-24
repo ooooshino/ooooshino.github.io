@@ -3,7 +3,7 @@
     <h2>工作经历</h2>
 
     <p>
-      <strong class="text-lg">深圳市趣虹科技有限公司｜前端开发工程师｜2023.06 - 至今</strong>
+      <strong class="text-lg">XX公司｜前端开发工程师｜2023.06 - 至今</strong>
     </p>
 
     <ul>
@@ -56,7 +56,7 @@
     </ul>
 
     <p>
-      <strong class="text-lg">广东邮电职业技术学院（事业二部）｜前端实习生｜2020.06 - 2020.12</strong>
+      <strong class="text-lg">XX单位｜前端实习生｜2020.06 - 2020.12</strong>
     </p>
     <ul>
       <li>

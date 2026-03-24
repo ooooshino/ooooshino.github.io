@@ -16,6 +16,12 @@ replacements:
     replacement: "XX"
     pattern: "\\b(XX|XX|XX)\\b"
     replacement: "XX"
+  - name: mask_company_name
+    pattern: "(XX公司|XX公司)"
+    replacement: "XX公司"
+  - name: mask_org_name
+    pattern: "(XX单位|XX单位)"
+    replacement: "XX单位"
 
 line_drop_patterns:
 
