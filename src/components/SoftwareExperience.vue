@@ -2,7 +2,7 @@
   <section>
     <h2>项目经历</h2>
 
-    <p><strong>XX Web（客户端级 WebApp 多渠道交付）｜核心前端开发｜2023 - 至今</strong></p>
+    <p><strong>XX Web（客户端级 WebApp 多渠道交付）｜Web 组长｜2023 - 至今</strong></p>
     <ul>
       <li>负责 <strong>WebApp / WeApp 核心业务开发与维护</strong>，基于统一前端代码体系支撑多运行形态持续交付。</li>
       <li>
