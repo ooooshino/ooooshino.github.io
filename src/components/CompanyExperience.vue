@@ -3,12 +3,12 @@
     <h2>工作经历</h2>
 
     <p>
-      <strong class="text-lg">XX公司｜前端开发工程师（HotChat Web 组长）｜2023.06 - 至今</strong>
+      <strong class="text-lg">XX公司｜前端开发工程师（XX Web 组长）｜2023.06 - 至今</strong>
     </p>
 
     <ul>
       <li>
-        担任 <strong>HotChat Web 组长</strong>，负责项目方向与任务拆解，主导核心需求评审、方案设计与研发排期，推动项目从需求到上线全流程落地。
+        担任 <strong>XX Web 组长</strong>，负责项目方向与任务拆解，主导核心需求评审、方案设计与研发排期，推动项目从需求到上线全流程落地。
       </li>
       <li>
         负责 <strong>WebApp / WeApp 核心业务开发与维护</strong>，基于统一前端代码体系支撑多运行形态交付。
