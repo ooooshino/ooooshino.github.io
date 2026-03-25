@@ -14,7 +14,7 @@ replacements:
   - name: mask_cn_mobile
     pattern: "(?<!\\d)(?:\\+?86[-\\s]?)?1[3-9]\\d[-\\s]?\\d{4}[-\\s]?\\d{4}(?!\\d)"
     replacement: "XX"
-    pattern: "(?i)\\b(XX|XX|XX|XX\\s*web)\\b"
+    pattern: "(?i)\\b(XX|XX|XX|XX\\s*web|XX|XX|XX)\\b"
     replacement: "XX"
   - name: mask_company_name
     pattern: "(XX公司|XX公司)"
