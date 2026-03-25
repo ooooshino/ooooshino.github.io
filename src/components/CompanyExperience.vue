@@ -3,7 +3,7 @@
     <h2>工作经历</h2>
 
     <p>
-      <strong class="text-lg">XX公司｜前端开发工程师（XX Web 组长）｜2023.06 - 至今</strong>
+      <strong class="text-lg">XX公司｜前端组长（XX Web）｜2023.06 - 至今</strong>
     </p>
 
     <ul>
