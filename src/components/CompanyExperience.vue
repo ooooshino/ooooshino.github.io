@@ -17,6 +17,9 @@
         制定并落地团队 <strong>Git 协作规范</strong>（分支命名、提交规范、代码评审与合并策略），提升跨成员协作效率与变更可追溯性。
       </li>
       <li>
+        推动 <strong>AI 工具</strong>在公司前端部门落地，建立需求拆解、代码生成与重构校验的协作范式，使典型需求排期由 <strong>3 天缩短至 1.5 天</strong>，交付周期缩短 <strong>50%</strong>、开发效率提升约 <strong>100%</strong>。
+      </li>
+      <li>
         在研发流程中系统化使用 <strong>AI 工具</strong>，结合 <strong>Figma MCP</strong> 进行设计稿还原与前端实现协同，加速页面交付并提升还原一致性。
       </li>
       <li>
