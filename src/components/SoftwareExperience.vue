@@ -6,10 +6,10 @@
     <ul>
       <li>在 XX Web 项目中将 <strong>AI + Figma MCP</strong> 作为默认协作方式，优先用于方案评审、页面还原和代码校验，提升交付效率与一致性。</li>
       <li>负责 XX Web 核心业务迭代与交付，覆盖需求拆解、技术方案、开发实现与上线保障。</li>
-      <li>在 AI 协作实践下，将典型活动与迭代需求排期从 <strong>3 天</strong>缩短至 <strong>1.5 天</strong>（周期缩短 50%）。</li>
+      <li>在 AI 协作实践下，将典型活动与迭代需求排期从 <strong>3天→1.5天</strong>（周期缩短 50%）。</li>
       <li>统一多端交付形态（Web / App WebView / iOS 马甲包 / PWA / Telegram Mini App），保障核心能力一致。</li>
       <li>建设 JSBridge 关键链路（登录态、支付、跳转、状态回传）并治理 iOS WebView 适配问题，提升端内稳定性。</li>
-      <li>推进性能优化，Lighthouse 评分由 <strong>60</strong> 提升至 <strong>92</strong>，FCP 从 <strong>3.8s</strong> 优化至 <strong>1.4s</strong>。</li>
+      <li>推进性能优化，Lighthouse <strong>60→92</strong>，FCP <strong>3.8s→1.4s</strong>。</li>
       <li><strong>技术栈：</strong>Vue 3 / Vue Router / Pinia / Axios / Webpack / PWA / JSBridge / Protobufjs / vue-i18n / Agora。</li>
     </ul>
 
@@ -27,7 +27,7 @@
     <ul>
       <li>在运营平台研发中优先使用 <strong>AI 协同开发</strong> 辅助页面实现、联调排障与文档沉淀，提升迭代速度与质量稳定性。</li>
       <li>负责 XX、XX、XX、XX 运营平台核心模块开发，覆盖配置管理、数据看板、内容与用户运营等场景。</li>
-      <li>在 AI 协作支持下，运营平台典型需求排期从 <strong>3 天</strong>缩短至 <strong>1 天</strong>。</li>
+      <li>在 AI 协作支持下，运营平台典型需求排期从 <strong>3天→1天</strong>。</li>
       <li>维护 <strong>8 条并行分支</strong> 对应多平台版本，支撑差异化配置与同步发布。</li>
       <li>建设报表下载、Excel 导入导出与图表分析能力，提升运营分析与日常对账效率。</li>
       <li>接入 Agora 相关监控能力与巡检流程，增强运营侧异常识别与干预能力。</li>
