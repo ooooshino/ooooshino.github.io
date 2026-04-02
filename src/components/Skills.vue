@@ -2,7 +2,7 @@
   <section>
     <h2>专业技能</h2>
     <ul>
-      <li><strong>AI 协同开发：</strong>长期使用 <strong>Cursor</strong> 与 <strong>Codex</strong> 辅助需求拆解、代码实现、重构与文档沉淀，并能对生成结果做工程化校验。</li>
+      <li><strong>AI 协同开发：</strong>使用一年多 <strong>Cursor</strong>、<strong>Codex</strong> 与 <strong>Kiro</strong> 辅助需求拆解、代码实现、重构与文档沉淀，并能对生成结果做工程化校验。</li>
       <li><strong>前端基础：</strong>扎实掌握 HTML5 / CSS3 / JavaScript（ES6+）/ TypeScript。</li>
       <li><strong>框架能力：</strong>熟练 Vue 3 生态（Vue Router / Pinia），具备 React + TypeScript 项目模板搭建经验，熟悉 Next.js 开发范式。</li>
       <li><strong>样式与组件：</strong>熟练 Tailwind CSS / Sass，能够基于 Element UI、Vant、ECharts 快速搭建业务页面。</li>
