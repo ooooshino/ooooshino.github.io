@@ -3,9 +3,9 @@
     <div>
       <h3 class="text-center sm:text-left break-words">Kent</h3>
       <ul class="flex flex-wrap user-info-grid">
-        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">广东东软软件工程</li>
+        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">广东东软学院 · 软件工程</li>
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">前端工程师</li>
-        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">工作年限3年+</li>
+        <li class="w-full md:w-1/3 md:pr-2 break-words box-border">工作年限3年</li>
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">base深圳</li>
         <li class="w-full md:w-1/3 md:pr-2 break-words box-border">XX</li>
       </ul>
