@@ -12,6 +12,14 @@
       <li><strong>技术栈：</strong>Vue 3 / Vue Router / Pinia / Axios / Webpack / PWA / JSBridge / Protobufjs / vue-i18n / Agora。</li>
     </ul>
 
+    <p><strong>AI 运营配置平台｜React + TypeScript + Next.js</strong></p>
+    <ul>
+      <li>基于 React + TypeScript + Next.js 搭建运营配置平台，覆盖活动配置、内容管理、数据看板等场景。</li>
+      <li>接入 AI 能力辅助运营文案生成、配置校验与数据摘要，减少重复配置和人工检查成本。</li>
+      <li>封装通用表单、权限路由、请求层与图表组件，提升后台页面交付效率。</li>
+      <li><strong>技术栈：</strong>React / TypeScript / Next.js / Zustand / TanStack Query / Tailwind CSS / ECharts。</li>
+    </ul>
+
     <p><strong>XX（XX / XX 全量 H5 项目工程平台）｜前端工程化建设｜2023 - 至今</strong></p>
     <ul>
       <li>将 XX、XX、XX、XX 4个项目的活动与业务 H5 项目集中到统一 Monorepo，建立共享依赖与统一构建链路。</li>
